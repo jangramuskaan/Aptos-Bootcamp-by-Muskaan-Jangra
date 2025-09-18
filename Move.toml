@@ -1,10 +1,10 @@
 [package]
-name = "Aptos"
+name = "HelloWorld"
 version = "1.0.0"
 authors = []
 
 [addresses]
-
+MyModule="0x4e0942471ecd4aa2bf99d7e25c590bb7fb85765fd2a42af74a77f9b0fee168f2"
 [dev-addresses]
 
 [dependencies.AptosFramework]
